@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\M_save\c#\API_ATS_WakeUp\API_ATS_WakeUp\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2024-11-19T09:05:31.8915055Z;True|2024-11-19T16:05:19.4523083+07:00;True|2024-11-19T15:56:37.5010136+07:00;True|2024-11-18T17:48:19.9703629+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

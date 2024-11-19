@@ -1,0 +1,10 @@
+[
+  {
+    "APIName": "asdasd",
+    "URL": "https://localhost:44334/"
+  },
+  {
+    "APIName": "GetCandidateByID",
+    "URL": "http://localhost:52260/Candidates/GetCandidateByID?Candidate_ID=46"
+  }
+]
