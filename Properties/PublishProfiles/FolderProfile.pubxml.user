@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>G:\M_save\c#\API_ATS_WakeUp\API_ATS_WakeUp\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
-    <History>True|2024-11-19T09:05:31.8915055Z;True|2024-11-19T16:05:19.4523083+07:00;True|2024-11-19T15:56:37.5010136+07:00;True|2024-11-18T17:48:19.9703629+07:00;</History>
+    <History>True|2024-11-20T05:15:30.0710415Z;True|2024-11-20T12:08:08.0733582+07:00;True|2024-11-20T11:56:37.3113612+07:00;True|2024-11-20T11:50:09.1299753+07:00;True|2024-11-19T16:05:31.8915055+07:00;True|2024-11-19T16:05:19.4523083+07:00;True|2024-11-19T15:56:37.5010136+07:00;True|2024-11-18T17:48:19.9703629+07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

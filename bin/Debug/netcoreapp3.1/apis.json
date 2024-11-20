@@ -1,14 +1,99 @@
 [
   {
-    "APIName": "aseeeeeeee",
-    "URL": "asdasdasd123121231",
-    "method": "POST"
-   
+    "APIName": "Currency_By_Coms/GetCurencyName",
+    "URL": "http://10.88.88.200:9000/Currency/Currency_By_Coms/GetCurencyName?Currency_Com_ID=0&Company_ID=1",
+    "method": null,
+    "data": null
   },
   {
-    "APIName": "aseeeeeeee55",
-    "URL": "asdasdasd123121231",
-    "method": "POST"
-   
+    "APIName": "PositionByComps/GetPositonName",
+    "URL": "http://10.88.88.200:9000/Position/PositionByComps/GetPositonName?Position_By_Com_ID=0&Company_ID=1",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Payment_Seq/GetPaymentName",
+    "URL": "http://10.88.88.200:9000/Payment_Sequences/Payment_Seq/GetPaymentName?Pay_Seq_ID=0",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Softwares/GetSoftwareName",
+    "URL": "http://10.88.88.200:9000/Software/Softwares/GetSoftwareName?Software_ID=1",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Profile_Summaries/GetProfileSummary",
+    "URL": "http://10.88.88.200:9000/Candidate/Profile_Summaries/GetProfileSummary?Candidate_ID=1",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Persons/getPerson",
+    "URL": "http://10.88.88.200:9000/Person/Persons/getPerson?Person_ID=1",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Candidate/Personal_Infors/Get_Personal",
+    "URL": "http://10.88.88.200:9000/Candidate/Personal_Infors/Get_Personal?Candidate_ID=1",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Bank/Banks/GetBank",
+    "URL": "http://10.88.88.200:9000/Bank/Banks/GetBank",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "Working_Time_Days/GetWorkingTime",
+    "URL": "http://10.88.88.200:9000/Working_Time/Working_Time_Days/GetWorkingTime",
+    "method": null,
+    "data": null
+  },
+  {
+    "APIName": "ssss",
+    "URL": "https://localhost:44334/test",
+    "method": "POST",
+    "data": {
+      "sdsd": "asdad",
+      "sdd": {
+        "sdsd": "asdasd"
+      }
+    }
+  },
+  {
+    "APIName": "ssss2",
+    "URL": "http://10.88.88.200:9000/Currency/Currency_By_Coms/GetCurencyName?Currency_Com_ID=0&Company_ID=1",
+    "method": "GET",
+    "data": {
+      "asda": "asdasd"
+    }
+  },
+  {
+    "APIName": "testPOST_2",
+    "URL": "https://localhost:44334/test",
+    "method": "POST",
+    "data": {
+      "AAAA": 123456,
+      "BBB": [
+        {
+          "BBCCCC": "sssssadasd"
+        },
+        {
+          "BBDDDD": 78978
+        },
+        {
+          "BBEEEE": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    }
   }
 ]
